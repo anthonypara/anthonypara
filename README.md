@@ -2,8 +2,10 @@
 
 <h2>⚡Electrical Engineering Projects:</h2>
 
-- <b>Guitar Distortion Pedal Build</b>
-- <b>Solar-Powered Battery Charger Simulation</b>
+- <b>DIY</b>
+  - [Guitar Distortion Pedal build](https://github.com/anthonypara/DistortionPedal)
+- <b>MATLAB/Simulink</b>
+  - [Solar-Powered Battery Charger Simulation](https://github.com/anthonypara/DistortionPedal)
 
 <h2> 🤳 Connect with me:</h2>
 
