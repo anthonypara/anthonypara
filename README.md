@@ -1,4 +1,30 @@
-## Hi there 👋
+<h1>Hi, I'm Anthony! <br/><a href="https://www.linkedin.com/in/anthony-paradiso-6911223b3/">3rd Year Engineering Student</a>
+
+<h2>⚡Electrical Engineering Projects:</h2>
+
+- <b>Guitar Distortion Pedal Build</b>
+- <b>Solar-Powered Battery Charger Simulation</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/anthony-paradiso-6911223b3/
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **anthonypara/anthonypara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
