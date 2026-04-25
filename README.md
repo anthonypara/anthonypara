@@ -5,7 +5,7 @@
 - <b>DIY</b>
   - [Guitar Distortion Pedal build](https://github.com/anthonypara/DistortionPedal)
 - <b>MATLAB/Simulink</b>
-  - [Solar-Powered Battery Charger Simulation](https://github.com/anthonypara/DistortionPedal)
+  - [Solar-Powered Battery Charger Simulation](https://github.com/anthonypara/SolarBatteryCharger)
 
 <h2> 🤳 Connect with me:</h2>
 
